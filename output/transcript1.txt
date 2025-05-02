@@ -1,0 +1,63 @@
+let's talk about python what is it how
+does it work and how you can get started
+today all of that and more in two
+minutes start the timer
+python is a prevalent general purpose
+programming language often used for
+machine learning and data analysis
+python was created by Guido van Rossum
+and was first released on February 20th
+1991. this language is so influential
+that in 1999 the Zen of python was
+released which is a guiding set of
+principles for using python in the
+upmost Mr Miyagi way there are numerous
+reasons why this language is hotter than
+the Backstreet Boys were in 1997. the
+first being that python is very readable
+like it states in the Zen of python
+simple is better than complex and that's
+exactly what the language mirrors python
+can also handle a multitude of different
+jobs for machine learning to data
+analytics web development testing and so
+on there is no need to debate how great
+this language is but how can we use it
+you can download python on the official
+getting started with python page once
+downloaded creating a file with python
+is as easy as naming the file and ending
+it with DOT py these files are also
+referred to as modules then all you need
+to do is print hello world and there you
+go you can brag to all your friends that
+you are the next Bill Gates
+you have probably heard of interpreted
+versus compiled right well python is an
+interpreted language which means the
+source code is converted into bytecode
+that is then executed by the python
+virtual machine this equates to python
+being extremely fast to develop but not
+so fast during the execution step since
+the code is not directly compiled and
+executed but why should we learn python
+probably the most important answer to
+that is just how beginner friendly the
+language is if you're brand new to web
+development my recommendation is either
+Learn Python or JavaScript you can't go
+wrong with either as we mentioned before
+python is also extremely versatile you
+can do so many different tasks with just
+one language lastly python developers
+are extremely in demand there are 36 000
+job postings on ZipRecruiter at this
+current moment for entry-level python
+developers if you want to Learn Python
+and fully Master one of the most
+relevant languages in the world of
+development check out zero to mastery's
+complete python developer bootcamp
+course well you'll go from beginner to
+expert

@@ -1,0 +1,6 @@
+kotlin is a statically typed multi-paradigm language designed as a better alternative to java like java . It was announced in 2011 by jetbrains with the first stable release coming in 2016 . Google has named it the preferred language for android development over java .
+
+Ines provides a way to write asynchronous non-blocking code a common requirement for mobile developers to get started with kotlin . Ines is an ide brought to you by the same company that invented the language inside the file use the fun-worthy keyword to define a main function .
+
+The kotlin compiler has been created in just 100 seconds and compiled in 100 seconds . The language is designed to reduce boilerplate with things like data classes so you don't have to write constructors and setters .
+

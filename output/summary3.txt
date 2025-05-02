@@ -1,0 +1,2 @@
+Device set to use cpu
+Kotlin is a new programming language for the Android operating system. It is designed to be a more concise alternative to java. The first stable release of kotlin will be in October 2021. The language was created by the same company that invented the Java programming language. It has been named after the island of Kotor in the Baltic Sea, where it was first used to write code.

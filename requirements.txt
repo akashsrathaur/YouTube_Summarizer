@@ -1,0 +1,10 @@
+youtube-transcript-api
+openai
+yt-dlp
+openai-whisper
+torch
+yt-dlp
+transformers
+torch
+whisper
+youtube-transcript-api
